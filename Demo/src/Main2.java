@@ -4,5 +4,6 @@ public static void main(String[] args) {
 	System.out.println("Information Technology");
 	System.out.println("Physics");
 	System.out.println("Chemistry");
+	System.out.println("Biology");
 }
 }
