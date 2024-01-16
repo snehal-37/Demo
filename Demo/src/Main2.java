@@ -3,5 +3,6 @@ public class Main2 {
 public static void main(String[] args) {
 	System.out.println("Information Technology");
 	System.out.println("Physics");
+	System.out.println("Chemistry");
 }
 }
